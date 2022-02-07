@@ -26,6 +26,11 @@
 </body>
 
 </html>
+<?php
+	    header("Location: index.php");
+    exit();
+
+?>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter:wght@300;400&family=Josefin+Sans&family=Mada&family=Merriweather:ital,wght@0,400;1,300&family=Open+Sans:wght@300&family=Outfit&family=Poppins&family=Prompt&family=Sintony&family=Source+Sans+Pro&family=Varela+Round&display=swap');
 
